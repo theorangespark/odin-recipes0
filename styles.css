@@ -1,4 +1,14 @@
 * {
     color: yellowgreen;
     background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 700;
 }
+h1 {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 700px;
+  }
