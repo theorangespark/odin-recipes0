@@ -9,6 +9,13 @@ h1 {
     text-align: center;
 }
 img {
-    height: auto;
-    width: 700px;
+    height: 500px;
+    width: auto;
   }
+
+* {
+    background-color: rgb(42, 123, 228);
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: fantasy 
+}
