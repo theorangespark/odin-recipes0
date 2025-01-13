@@ -7,15 +7,18 @@
 }
 h1 {
     text-align: center;
+    padding: 10;
+    margin: 10;
+    border: 5px solid aquamarine;
 }
 img {
     height: 500px;
     width: auto;
   }
 
-* {
-    background-color: rgb(42, 123, 228);
-}
+
 h1,h2,h3,h4,h5,h6 {
     font-family: fantasy 
 }
+
+  
